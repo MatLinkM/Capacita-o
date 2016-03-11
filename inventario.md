@@ -1,8 +1,8 @@
-espada: *espada do dragão*
+espada: *mestre dos magos*
 
-elmo: *elmo do capiroto*
+elmo: *topete*
 
 bag:
 
-	- 50 gold
-	- medicinal herb
+	- 50 tons de cinza
+	- Cd de safadão
